@@ -2,47 +2,47 @@
    "files": [    
 
 {
-         "name": "SG-TRUE&DTAC-FRER-001",
+         "name": "SG-T&D-FREE-001",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-001.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-002",
+         "name": "SG-T&D-FREE-002",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-002.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-003",
+         "name": "SG-T&D-FREE-003",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-003.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-004",
+         "name": "SG-T&D-FREE-004",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-004.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-005",
+         "name": "SG-T&D-FREE-005",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-005.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-006",
+         "name": "SG-T&D-FREE-006",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-006.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-007",
+         "name": "SG-T&D-FREE-007",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-007.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-008",
+         "name": "SG-T&D-FREE-008",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-008.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FREE-009",
+         "name": "SG-T&D-FREE-009",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-009.ovpn"
       },
 {
-         "name": "SG-TRUE&DTAC-FRER-010",
+         "name": "SG-T&D-FREE-010",
          "url": "https://raw.githubusercontent.com/Mcminmin/mic1/main/LINDOES-D%26T-010.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 2\n\n•Config By:freenet-MGMG ",
+"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 3\n\n•Config By:freenet-MGMG ",
    "title":"Add Dtac&True auto update file" ,
-   "version": 2
+   "version": 3
 }
